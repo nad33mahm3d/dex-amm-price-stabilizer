@@ -4,6 +4,18 @@ Node.js / TypeScript service that compares **on-chain USDC per base token** pric
 
 **Package name:** `dex-amm-price-stabilizer` ([`package.json`](package.json)).
 
+[![CI](https://github.com/nad33mahm3d/dex-amm-price-stabilizer/actions/workflows/ci.yml/badge.svg)](https://github.com/nad33mahm3d/dex-amm-price-stabilizer/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+## License
+
+Released under the [MIT License](LICENSE). You may use, modify, and distribute the code subject to that license. The software is provided **as-is**; the legal disclaimer in this README still applies.
+
+## Community
+
+- [Contributing](CONTRIBUTING.md) — how to run tests and open PRs  
+- [Security](SECURITY.md) — how to report vulnerabilities  
+
 ## Requirements
 
 - **Node.js 18+** (global `fetch` is required; see [`src/priceService.ts`](src/priceService.ts)).

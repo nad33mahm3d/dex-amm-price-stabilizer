@@ -1,7 +1,17 @@
 {
   "name": "dex-amm-price-stabilizer",
   "version": "0.1.0",
+  "description": "AMM / DEX price stabilizer bot: API target vs on-chain USDC/base pools (Uniswap V3, QuickSwap V2).",
+  "license": "MIT",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nad33mahm3d/dex-amm-price-stabilizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nad33mahm3d/dex-amm-price-stabilizer/issues"
+  },
+  "homepage": "https://github.com/nad33mahm3d/dex-amm-price-stabilizer#readme",
   "type": "commonjs",
   "engines": {
     "node": ">=18"
